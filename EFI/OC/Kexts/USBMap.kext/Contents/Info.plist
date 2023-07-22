@@ -172,7 +172,7 @@
 						<integer>0</integer>
 						<key>name</key>
 						<string>OriginBluetooth</string>
-						<key>#port</key>
+						<key>port</key>
 						<data>BAAAAA==</data>
 					</dict>
 					<key>PRT5</key>

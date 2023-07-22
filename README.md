@@ -23,7 +23,7 @@
 - ✅ 小红点
 - ✅ 10个USB全正常工作，包括 Dock 上的 USB3
 - ✅ MiniDP 显示输出
-- ✅ SD卡读卡器 (记得先禁止使用 `SSDT-SDC.aml`)
+- ✅ SD卡读卡器
 - ✅ Wi-Fi 博通 BCM94352HMB a/b/g/n/ac
 - ❓ Wi-Fi Intel 3*3 Centrino Ultimate-N 6300 agn, [必须使用非原生APP](https://github.co/penIntelWireless/HeliPort)
 - ❓ Lenovo Mini Dock Statiosn 4337 USB3, `Mic` 在使用不同的 `layout-id` 时，可能无法使用。
@@ -33,7 +33,7 @@
 > *需要安装[ThinkpadAssistant](https://github.com/MSzturc/ThinkpadAssistant/releases)，再设置自启动。
 
 ### 可能存在的问题
-- 显卡驱动 `WhateverGreen` 有概率在 `900p` 分辨率屏幕上出现以下现象：开机登录界面慢慢变换成摆平，合盖再打开即可正常。
+- 显卡驱动 `WhateverGreen` 有概率在 `900p` 分辨率屏幕上出现以下现象：开机登录界面慢慢变换成白屏，合盖再打开即可正常。
 - Fn+F4 休眠有概率唤醒后无背光，使用系统菜单选择休眠或者直接合盖，不会出现此问题。
 
 ## 硬件
@@ -176,4 +176,6 @@
 - [Lương Thế Bình](https://github.com/banhbaoxamlan/X230-Hackintosh) for ThinkPad ACPI Patchs and Configurations.
 - [5T33Z0](https://github.com/5T33Z0/Lenovo-T530-Hackintosh-OpenCore) for ThinkPad Configurations
 - [黑客小兵](https://github.com/daliansky/OC-little)
+- [SukkaW](https://github.com/SukkaW)
+- [xjn819](https://github.com/xjn819)
 - [国光](https://github.com/sqlsec/Hackintosh)
